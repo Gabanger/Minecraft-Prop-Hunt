@@ -61,7 +61,9 @@ Hunters, on the other hand, are equipped with a trident that they can throw to h
 - [**Skript 2.7.1**](https://github.com/SkriptLang/Skript/releases/download/2.7.1/Skript.jar)
 - [**Skbee 3.0.0**](https://github.com/ShaneBeee/SkBee/releases/download/3.0.0/SkBee-3.0.0.jar)
 - [**Skhttp 1.5**](https://cdn.modrinth.com/data/4PKsHCki/versions/N5RqZp5W/SkHttp-1.5-all.jar)
+- [**DiSky 4.12.1**](https://cdn.modrinth.com/data/4KA72Zn8/versions/EZDu9ptL/DiSky%204.12.1.jar)
 - [**skript-gui 1.3**](https://github.com/APickledWalrus/skript-gui/releases/download/1.3/skript-gui-1.3.jar)
+- [**Skent 3.3.1**](https://github.com/Olyno/skent/releases/download/3.3.1/Skent.jar)
 - [**ViewDistanceTweaks 1.5.7**](https://www.spigotmc.org/resources/view-distance-tweaks.75164/download?version=516594)
 - [**Skript-Translations 1.0.0**](https://github.com/Gabanger/Skript-Translations/releases/tag/v1.0.0) (also needs to be placed in `plugins/Skript/scripts`)
 
