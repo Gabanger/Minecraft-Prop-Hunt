@@ -45,7 +45,7 @@ Hunters, on the other hand, are equipped with a trident that they can throw to h
 - Adjustable number of starting hunters.
 - And more...
 
-**⚠️ Only the official map is supported for now.**
+**⚠️ Only the [official map](https://www.mediafire.com/file/8ez6jn3ejb96t2q/Map_Minecraft_Prop-Hunt.zip/file) is supported for now.**
 
 ### Installation and Configuration
 
