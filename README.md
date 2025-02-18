@@ -50,7 +50,7 @@ Hunters, on the other hand, are equipped with a trident that they can throw to h
 ### Installation and Configuration
 
 - **You need to add all necessary information to the plugin file (e.g., bot token, server channel IDs, world name, etc.).**
-- You can configure the server yourself with the instructions below or download the [pre-configured server with the plugin](https://www.mediafire.com/file/itosr43agq4as23/Minecraft-Prop-Hunt-preconfigured-server.zip/file)
+- You can configure the server yourself with the instructions below or download the [pre-configured server with the plugin](https://www.mediafire.com/file/2rpsbgrzaqstfua/Minecraft-Prop-Hunt-preconfigured-server.zip/file)
 
 ### File placement
 
