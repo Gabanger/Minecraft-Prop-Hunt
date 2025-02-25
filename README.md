@@ -8,6 +8,8 @@ Minecraft Prop-Hunt is a plugin that introduces the classic Prop-Hunt game mode 
 
 - **Paper/Spigot 1.20.2**
 
+**⚠️ Only the [official map](https://www.mediafire.com/file/8ez6jn3ejb96t2q/Map_Minecraft_Prop-Hunt.zip/file) is supported for now.**
+
 ### Gameplay
 
 Props can take control of any block, armor stand, or item frame. By crouching, they blend into their surroundings by aligning and placing the block they are using at their current position.
@@ -44,8 +46,6 @@ Hunters, on the other hand, are equipped with a trident that they can throw to h
 - Prop health regeneration toggle.
 - Adjustable number of starting hunters.
 - And more...
-
-**⚠️ Only the [official map](https://www.mediafire.com/file/8ez6jn3ejb96t2q/Map_Minecraft_Prop-Hunt.zip/file) is supported for now.**
 
 ### Installation and Configuration
 
