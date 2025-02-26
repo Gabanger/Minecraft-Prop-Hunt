@@ -8,7 +8,7 @@ Minecraft Prop-Hunt is a plugin that introduces the classic Prop-Hunt game mode 
 
 - **Paper/Spigot 1.20.2**
 
-**⚠️ Only the [official map](https://www.mediafire.com/file/4fj5odl1ya76er5/Map_Minecraft_Prop-Hunt.zip/file) is supported for now.**
+**⚠️ Only the [official map](https://www.mediafire.com/file/jadzdjcb6ovfi5d/Map_Minecraft_Prop-Hunt.zip/file) is supported for now.**
 
 ### Gameplay
 
@@ -49,8 +49,8 @@ Hunters, on the other hand, are equipped with a trident that they can throw to h
 
 ### Installation and Configuration
 
-- **You need to add all necessary information to the plugin file (e.g., bot token, server channel IDs, world name, etc.).**
-- You can configure the server yourself with the instructions below or download the [pre-configured server with the plugin](https://www.mediafire.com/file/kyvzra6835dsryd/Minecraft-Prop-Hunt-preconfigured-server.zip/file)
+- __**You need to add all necessary information to the plugin file (e.g., bot token, server channel IDs, world name, etc.).** or it will crash when booting up__
+- You can configure the server yourself with the instructions below or download the [pre-configured server with the plugin](https://www.mediafire.com/file/vgguiq30qpfn3ym/Minecraft-Prop-Hunt-preconfigured-server.zip/file)
 
 ### File placement
 
