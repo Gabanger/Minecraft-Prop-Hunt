@@ -47,7 +47,7 @@ Hunters, on the other hand, are equipped with a trident that they can throw to h
 - Adjustable number of starting hunters.
 - And more...
 
-### Installation and Configuration
+## Installation and Configuration
 
 - <ins>**You need to add all necessary information to the plugin file in `plugins/Skript/scripts` (e.g., bot token, server channel IDs, world name, etc.) or it will crash when booting up**</ins>
 - You can configure the server yourself with the instructions below or download the [pre-configured server with the plugin](https://www.mediafire.com/file/7hz1eruitf8gejw/Minecraft-Prop-Hunt-preconfigured-server.zip/file)
